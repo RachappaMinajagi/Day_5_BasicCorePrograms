@@ -14,7 +14,6 @@ public class HarmonicNumber {
 		} else {
 			System.out.println("Please enter a positive number : ");
 		}
-		
 		return sum;
 
 	}
