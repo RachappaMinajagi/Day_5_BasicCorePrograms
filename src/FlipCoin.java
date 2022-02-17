@@ -6,6 +6,7 @@ public class FlipCoin {
 	public static void main(String[] args) {
 
 		Scanner num = new Scanner(System.in);
+		
 		Random random = new Random();
 
 		System.out.print("The number of times to Flip Coin : ");
