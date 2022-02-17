@@ -3,6 +3,7 @@ package com.BasicCorePrograms;
 import java.util.Scanner;
 
 public class ComputeQuotientRemainder {
+	
 	public static void main(String[] args) {
 
 		Scanner num = new Scanner(System.in);
