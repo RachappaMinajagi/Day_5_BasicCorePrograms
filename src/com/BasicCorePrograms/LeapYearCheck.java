@@ -2,7 +2,7 @@ package com.BasicCorePrograms;
 
 import java.util.Scanner;
 
-public class LeapYearCheck {
+public class LeapYearCheck { 
 
 	public static void main(String[] args) {
 
