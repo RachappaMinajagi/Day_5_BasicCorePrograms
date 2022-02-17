@@ -16,7 +16,7 @@ public class VowelConsonant {
 
 				System.out.println("The given Character is " + c + " Vowel");
 			else
-				System.out.println("The given Character is " + c + " Consonant");
+				System.out.println("The given Character is " + c + " Consonant"); 
 		}
 	}
 }
